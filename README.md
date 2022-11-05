@@ -1,11 +1,11 @@
 # kodluyoruzilkrepo
 Kodluyoruz  Front-End Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
-Installation
+INSTALLATİON
 https://github.com/ilknur22/kodluyoruzilkrepo
-Usage
+USAGE
 Proje Github üzerinde oluşturuldu ve sonrasında clone'landı. Clone'lanan proje içerisinde README dosyası burada görüldüğü şekilde düzenlendi.
 
-Contributing
+CONTRİBUTİNG
 
 License
 MIT
