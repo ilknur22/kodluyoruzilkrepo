@@ -6,7 +6,7 @@ Front-End Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README
 
 INSTALLATİON
 
-https://github.com/ilknur22/kodluyoruzilkrepo
+https://github.com/ilknur22/kodluyoruzilkrepo.git
 
 
 USAGE
