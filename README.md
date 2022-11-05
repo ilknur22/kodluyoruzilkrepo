@@ -4,6 +4,7 @@ Installation
 
 Usage
 Proje Github üzerinde oluşturuldu ve sonrasında clone'landı. Clone'lanan proje içerisinde README dosyası burada görüldüğü şekilde düzenlendi.
+
 Contributing
 
 License
